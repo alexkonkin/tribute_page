@@ -1,0 +1,15 @@
+.v-border {
+	border: dotted;
+}
+
+.myclass {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
