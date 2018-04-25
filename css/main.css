@@ -1,5 +1,5 @@
 .v-border {
-	border: dotted;
+	border: none;
 }
 
 .myclass {
@@ -7,6 +7,7 @@
 	height: auto;
 	max-width: 100%;
 	max-height: 100%;
+	border: 5px solid white;
 }
 
 .col-centered{
